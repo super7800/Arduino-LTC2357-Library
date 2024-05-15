@@ -1,6 +1,6 @@
 # Arduino-LTC2357-Library
 
-Thius library is for using the LTC2357-18 in "mode 7" i.e. ±10.24V input. Uses SPI single SDO. the ADC supports multiple SDO, but this library does not. This library is a derivitive of the LTC library with major changes.
+This library is for using the LTC2357-18 in "mode 7" i.e. ±10.24V input. Uses SPI single SDO. the ADC supports multiple SDO, but this library does not. This library is a derivitive of the LTC library with major changes.
 
 Should work with the following ADCs, with modifications to the defines:
 
